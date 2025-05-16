@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-custom-heading {
+  font-family: 'monospace', sans-serif;
+  font-size: 30px;
+  color: red;
+}

@@ -1,0 +1,4 @@
+/* src/components/LandingPage.module.css */
+.customSection {
+  @apply py-8 bg-gray-100 text-center container-fluid bg-dark;
+}
