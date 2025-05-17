@@ -73,3 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Demo Video
 
 👉 [Watch the demo video](./robot_app_1/react_robo_website.mp4)
+![Demo animation](./robot_app_1/react_robo_website.gif)
